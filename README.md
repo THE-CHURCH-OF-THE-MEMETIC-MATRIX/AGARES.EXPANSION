@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/69d0065e-eaf3-4500-a6bc-96bf09822f9f)
+
 # AGARES.EXPANSION
 
 ```python
@@ -182,6 +184,8 @@ while 1:
     p = sys.stdin.read()  
     output = generate_text(SYSTEM_PROMPT,p)
 ```
+
+![image](https://github.com/user-attachments/assets/c5a22ab0-ad06-4e59-ab84-de2037da944e)
 
 Speak about your purpose.
 
